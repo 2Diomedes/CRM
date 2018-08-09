@@ -17,6 +17,7 @@
         $db = new PDO('mysql:host=localhost;dbname=crm-bdd', $user, $pass);
 
         $customer=$db->query("SELECT * FROM Customers")->fetchAll();
+        $business=$db->query("SELECT * FROM Business")->fetchAll();
 
         ?>
 
@@ -47,7 +48,7 @@
 
                     <div class="row main">
                         <h1>Listing clients/entreprises</h1>
-                
+
                         <div class="col-12">
                             <div class="list-group row" id="list-tab" role="tablist">
 
@@ -68,6 +69,9 @@
 
                                     <?php foreach ($customer as $value):?>
 
+                                        <?php $clientBussiness = $db->query("SELECT * FROM Business WHERE customer_id=".$value['id'])->fetch();
+                                        ?>
+
                                         <div class="card">
                                             <div class="card-header" id="heading<?php echo $value['id'] ?>">
                                                 <h5 class="mb-0">
@@ -84,7 +88,7 @@
                                                         <div class="media-body">
                                                             <h5 class="mt-0"><?php echo $value['name'] ?></h5>
                                                             <p><?php echo $value['address'] ?></p>
-                                                            <a href="#">Entreprise</a>
+                                                            <a href="#"><?php echo $clientBussiness['name'] ?></a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -100,8 +104,39 @@
 
                                 <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
 
-<!-- futur Collapse BDD entreprise-->
-                                    lolilol
+<!-- Collapse BDD entreprise-->
+
+<div id="accordion">
+
+<?php foreach ($business as $value):?>
+
+    <?php $worker = $customer[$value['customer_id']-1];?>
+
+    <div class="card">
+        <div class="card-header" id="heading<?php echo $value['id'] ?>">
+            <h5 class="mb-0">
+                <button class="btn btn-link" data-toggle="collapse" data-target="#collapse<?php echo $value['id'] ?>" aria-expanded="true" aria-controls="collapseOne">
+                    <?php echo $value['name'] ?>
+                </button>
+            </h5>
+        </div>
+
+        <div id="collapse<?php echo $value['id'] ?>" class="collapse" aria-labelledby="heading<?php echo $value['id'] ?>" data-parent="#accordion">
+            <div class="card-body">
+                <div class="media">
+                    <img class="mr-3" src="https://picsum.photos/150/120/?random" alt="Generic placeholder image">
+                    <div class="media-body">
+                        <h5 class="mt-0"><?php echo $value['name'] ?></h5>
+                        <p><?php echo $value['address'] ?></p>
+                        <a href="#"><?php echo $worker['name']?></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<?php endforeach;?>
+
 <!-- fin Collapse -->
 
                                 </div>

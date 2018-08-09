@@ -373,3 +373,33 @@
 [Thu Aug 09 11:26:25.844003 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39182] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 196
 [Thu Aug 09 11:26:25.844011 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39182] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 255
 [Thu Aug 09 11:26:25.844019 2018] [php7:warn] [pid 3812] [client 127.0.0.1:39182] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 255
+[Thu Aug 09 13:58:52.405658 2018] [php7:notice] [pid 2891] [client 127.0.0.1:39578] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:00:31.820219 2018] [php7:notice] [pid 2888] [client 127.0.0.1:39596] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:03:30.110114 2018] [php7:notice] [pid 9321] [client 127.0.0.1:39632] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:04:19.196785 2018] [php7:notice] [pid 3154] [client 127.0.0.1:39638] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:04:42.722867 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39652] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:05:24.918542 2018] [php7:notice] [pid 2888] [client 127.0.0.1:39660] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:06:06.491321 2018] [php7:notice] [pid 2891] [client 127.0.0.1:39670] PHP Notice:  Undefined offset: 4 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:07:04.188701 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39682] PHP Notice:  Undefined offset: 4 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:07:27.634391 2018] [php7:notice] [pid 2889] [client 127.0.0.1:39694] PHP Notice:  Undefined offset: 4 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:07:44.094030 2018] [php7:notice] [pid 3154] [client 127.0.0.1:39706] PHP Notice:  Undefined offset: 4 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:07:55.636378 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39716] PHP Notice:  Undefined offset: 4 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:08:09.447353 2018] [php7:notice] [pid 3154] [client 127.0.0.1:39726] PHP Notice:  Undefined offset: 4 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:08:20.195187 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39736] PHP Notice:  Undefined offset: 4 in /home/yann/Code/Challenge/CRM/index.php on line 110
+[Thu Aug 09 14:08:39.804099 2018] [php7:notice] [pid 3154] [client 127.0.0.1:39746] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 111
+[Thu Aug 09 14:08:47.403378 2018] [php7:notice] [pid 2517] [client 127.0.0.1:39754] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 111
+[Thu Aug 09 14:08:54.313095 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39764] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 111
+[Thu Aug 09 14:09:11.446817 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39774] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 111
+[Thu Aug 09 14:10:52.892629 2018] [php7:warn] [pid 2891] [client 127.0.0.1:39786] PHP Warning:  Illegal string offset 'name' in /home/yann/Code/Challenge/CRM/index.php on line 117
+[Thu Aug 09 14:10:52.892693 2018] [php7:warn] [pid 2891] [client 127.0.0.1:39786] PHP Warning:  Illegal string offset 'name' in /home/yann/Code/Challenge/CRM/index.php on line 117
+[Thu Aug 09 14:10:52.892707 2018] [php7:notice] [pid 2891] [client 127.0.0.1:39786] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 111
+[Thu Aug 09 14:11:05.207946 2018] [php7:warn] [pid 3154] [client 127.0.0.1:39792] PHP Warning:  Illegal string offset 'name' in /home/yann/Code/Challenge/CRM/index.php on line 117
+[Thu Aug 09 14:11:05.208008 2018] [php7:warn] [pid 3154] [client 127.0.0.1:39792] PHP Warning:  Illegal string offset 'name' in /home/yann/Code/Challenge/CRM/index.php on line 117
+[Thu Aug 09 14:11:05.208024 2018] [php7:notice] [pid 3154] [client 127.0.0.1:39792] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 111
+[Thu Aug 09 14:11:25.282303 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39802] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 111
+[Thu Aug 09 14:11:38.988439 2018] [php7:warn] [pid 2891] [client 127.0.0.1:39812] PHP Warning:  Illegal string offset 'name' in /home/yann/Code/Challenge/CRM/index.php on line 117
+[Thu Aug 09 14:11:38.988497 2018] [php7:warn] [pid 2891] [client 127.0.0.1:39812] PHP Warning:  Illegal string offset 'name' in /home/yann/Code/Challenge/CRM/index.php on line 117
+[Thu Aug 09 14:11:38.988514 2018] [php7:notice] [pid 2891] [client 127.0.0.1:39812] PHP Notice:  Undefined offset: 3 in /home/yann/Code/Challenge/CRM/index.php on line 111
+[Thu Aug 09 14:26:56.962087 2018] [php7:emerg] [pid 3154] [client 127.0.0.1:39944] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/yann/Code/Challenge/CRM/index.php on line 72
+[Thu Aug 09 14:27:12.544489 2018] [php7:emerg] [pid 2521] [client 127.0.0.1:39950] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/yann/Code/Challenge/CRM/index.php on line 72
+[Thu Aug 09 14:27:19.113244 2018] [php7:emerg] [pid 2888] [client 127.0.0.1:39952] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/yann/Code/Challenge/CRM/index.php on line 72
