@@ -27,7 +27,28 @@ flex-direction: row;
 
 .main {
     h1{
+      text-align: center;
         padding: 5rem;
+        display: block;
+        width: 100%;
+    }
+    form {
+      width: 80%;
+      input {
+        margin: 0.5rem 0;
+        display: block;
+        width: 100%;
+        padding: 0.3rem;
+      }
+      button {
+        text-align: center;
+        padding: 0.5rem;
+        width: 12%;
+        border-radius: 5px;
+        background: #5b5cff;
+        color: #fff;
+        border: none;
+      }
     }
   max-width: 1210px;
   width: 100%;
