@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, user-scalable=no">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
         <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
         <title>CRM</title>
@@ -89,6 +90,9 @@
                                                             <h5 class="mt-0"><?php echo $value['name'] ?></h5>
                                                             <p><?php echo $value['address'] ?></p>
                                                             <a href="#"><?php echo $clientBussiness['name'] ?></a>
+                                                            <a href="editCustomers.php?id=<?php echo $value['id'] ?>"><i class="fas fa-edit"></i></i></a>
+                                                            <a href="#"><i class="fas fa-trash-alt"></i></a>
+
                                                         </div>
                                                     </div>
                                                 </div>

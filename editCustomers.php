@@ -18,11 +18,14 @@
         $db = new PDO('mysql:host=localhost;dbname=crm-bdd', $user, $pass);
 
         if ($_POST) {
-            $newName = $_POST["name"];
-            $newAddress = $_POST["address"];
+            $clientID = $_GET['id'];
+            print_r($clientID);
 
-            $insertLine = $db->prepare("INSERT INTO Business VALUES (NULL, :name, :address, NULL)");
-            $insertLine->execute([':name' => $newName, ":address" => $newAddress]);
+            $customer=$db->query("SELECT * FROM Customers WHERE id=".$clientID)->fetchAll();
+            print_r($customers);
+
+            $insertLine = $db->prepare("INSERT INTO Customers VALUES (NULL, :name, :address)");
+            $insertLine->execute([':name' => $newName, ':address' => $newAddress]);
             header("location:index.php");
         }
 
@@ -55,11 +58,12 @@
 
                     <div class="row main">
 
-                      <h1>Ajout d'une nouvelle entreprise</h1>
+                      <h1>Modifier données client</h1>
 
-                      <form action="addBusiness.php" method="post">
+                      <form action="addCustomer.php" method="post">
                         <input type="text" name="name" value="" placeholder="Dénomination">
                         <input type="text" name="address" value="" placeholder="Adresse Complète">
+
 
                         <button type="submit" name="submit">Enregistrer</button>
 
