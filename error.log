@@ -1,1 +1,375 @@
 [Tue Aug 07 12:08:37.386983 2018] [php7:notice] [pid 16504] [client 127.0.0.1:53598] PHP Notice:  Undefined index: adress in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:19:30.577107 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37488] PHP Notice:  Undefined variable: variable in /home/yann/Code/Challenge/CRM/index.php on line 139
+[Thu Aug 09 09:19:30.578635 2018] [php7:warn] [pid 2891] [client 127.0.0.1:37488] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 139
+[Thu Aug 09 09:19:58.771982 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37500] PHP Notice:  Undefined variable: variable in /home/yann/Code/Challenge/CRM/index.php on line 139
+[Thu Aug 09 09:19:58.772097 2018] [php7:warn] [pid 2517] [client 127.0.0.1:37500] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 139
+[Thu Aug 09 09:20:25.039571 2018] [php7:notice] [pid 2518] [client 127.0.0.1:37512] PHP Notice:  Undefined variable: variable in /home/yann/Code/Challenge/CRM/index.php on line 139
+[Thu Aug 09 09:20:25.039617 2018] [php7:warn] [pid 2518] [client 127.0.0.1:37512] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 139
+[Thu Aug 09 09:20:39.214728 2018] [php7:notice] [pid 2890] [client 127.0.0.1:37518] PHP Notice:  Undefined variable: variable in /home/yann/Code/Challenge/CRM/index.php on line 139
+[Thu Aug 09 09:20:39.214774 2018] [php7:warn] [pid 2890] [client 127.0.0.1:37518] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 139
+[Thu Aug 09 09:23:20.519724 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37608] PHP Notice:  Undefined variable: id in /home/yann/Code/Challenge/CRM/index.php on line 139
+[Thu Aug 09 09:23:20.519774 2018] [php7:warn] [pid 2517] [client 127.0.0.1:37608] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 139
+[Thu Aug 09 09:27:49.687999 2018] [php7:warn] [pid 2890] [client 127.0.0.1:37690] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:27:49.688530 2018] [php7:warn] [pid 2890] [client 127.0.0.1:37690] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:27:49.688591 2018] [php7:warn] [pid 2890] [client 127.0.0.1:37690] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:27:49.688639 2018] [php7:warn] [pid 2890] [client 127.0.0.1:37690] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:27:49.688682 2018] [php7:warn] [pid 2890] [client 127.0.0.1:37690] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:27:49.688724 2018] [php7:warn] [pid 2890] [client 127.0.0.1:37690] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:04.242085 2018] [php7:warn] [pid 2889] [client 127.0.0.1:37700] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:04.242139 2018] [php7:warn] [pid 2889] [client 127.0.0.1:37700] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:04.242151 2018] [php7:warn] [pid 2889] [client 127.0.0.1:37700] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:04.242176 2018] [php7:warn] [pid 2889] [client 127.0.0.1:37700] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:04.242184 2018] [php7:warn] [pid 2889] [client 127.0.0.1:37700] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:04.242193 2018] [php7:warn] [pid 2889] [client 127.0.0.1:37700] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:51.461861 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37714] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:51.461939 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37714] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:51.461954 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37714] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:51.461964 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37714] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:51.461974 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37714] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:28:51.461982 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37714] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:29:27.484938 2018] [php7:error] [pid 2889] [client 127.0.0.1:37720] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/yann/Code/Challenge/CRM/index.php:20\nStack trace:\n#0 {main}\n  thrown in /home/yann/Code/Challenge/CRM/index.php on line 20
+[Thu Aug 09 09:29:33.985990 2018] [php7:error] [pid 2888] [client 127.0.0.1:37730] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home/yann/Code/Challenge/CRM/index.php:69\nStack trace:\n#0 {main}\n  thrown in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:30:05.674419 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37738] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:30:05.674463 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37738] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 09:30:05.674472 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37738] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:30:05.674481 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37738] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 09:30:05.674490 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37738] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 09:30:05.674514 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37738] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:30:05.674534 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37738] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:30:05.674541 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37738] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:30:05.674546 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37738] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:30:05.674553 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37738] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:30:05.674558 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37738] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:30:43.021258 2018] [php7:notice] [pid 2890] [client 127.0.0.1:37760] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:30:43.021315 2018] [php7:notice] [pid 2890] [client 127.0.0.1:37760] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 09:30:43.021328 2018] [php7:notice] [pid 2890] [client 127.0.0.1:37760] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:30:43.021340 2018] [php7:notice] [pid 2890] [client 127.0.0.1:37760] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 09:30:43.021351 2018] [php7:notice] [pid 2890] [client 127.0.0.1:37760] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 09:33:47.250956 2018] [php7:notice] [pid 2889] [client 127.0.0.1:37778] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:33:47.251026 2018] [php7:notice] [pid 2889] [client 127.0.0.1:37778] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 09:33:47.251037 2018] [php7:notice] [pid 2889] [client 127.0.0.1:37778] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:33:47.251050 2018] [php7:notice] [pid 2889] [client 127.0.0.1:37778] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 09:33:47.251062 2018] [php7:notice] [pid 2889] [client 127.0.0.1:37778] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 09:34:11.794054 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37788] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:34:11.794199 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37788] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 09:34:11.794248 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37788] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:34:11.794288 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37788] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 09:34:11.794324 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37788] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 09:34:23.863388 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37798] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:34:23.863437 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37798] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 09:34:23.863449 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37798] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:34:23.863471 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37798] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 09:34:23.863479 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37798] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 09:34:23.863508 2018] [php7:warn] [pid 2517] [client 127.0.0.1:37798] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:34:23.863523 2018] [php7:warn] [pid 2517] [client 127.0.0.1:37798] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:34:23.863533 2018] [php7:warn] [pid 2517] [client 127.0.0.1:37798] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:34:36.836643 2018] [php7:notice] [pid 2521] [client 127.0.0.1:37808] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:34:36.836692 2018] [php7:notice] [pid 2521] [client 127.0.0.1:37808] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 09:34:36.836701 2018] [php7:notice] [pid 2521] [client 127.0.0.1:37808] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:34:36.836708 2018] [php7:notice] [pid 2521] [client 127.0.0.1:37808] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 09:34:36.836716 2018] [php7:notice] [pid 2521] [client 127.0.0.1:37808] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 09:34:36.836739 2018] [php7:warn] [pid 2521] [client 127.0.0.1:37808] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:34:36.836750 2018] [php7:warn] [pid 2521] [client 127.0.0.1:37808] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:34:36.836759 2018] [php7:warn] [pid 2521] [client 127.0.0.1:37808] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:35:46.504035 2018] [php7:emerg] [pid 2519] [client 127.0.0.1:37818] PHP Parse error:  syntax error, unexpected ':' in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:36:00.265130 2018] [php7:emerg] [pid 2888] [client 127.0.0.1:37820] PHP Parse error:  syntax error, unexpected ':', expecting end of file in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:36:21.064659 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37822] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:36:21.064710 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37822] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 09:36:21.064721 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37822] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:36:21.064734 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37822] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 09:36:21.064745 2018] [php7:notice] [pid 2517] [client 127.0.0.1:37822] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 09:36:21.064768 2018] [php7:warn] [pid 2517] [client 127.0.0.1:37822] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 141
+[Thu Aug 09 09:36:21.064796 2018] [php7:warn] [pid 2517] [client 127.0.0.1:37822] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 141
+[Thu Aug 09 09:36:21.064806 2018] [php7:warn] [pid 2517] [client 127.0.0.1:37822] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 141
+[Thu Aug 09 09:42:38.961391 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37834] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:42:38.961633 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37834] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 09:42:38.961646 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37834] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:42:38.961653 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37834] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 09:42:38.961659 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37834] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 09:42:38.961681 2018] [php7:warn] [pid 2891] [client 127.0.0.1:37834] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:42:38.961695 2018] [php7:warn] [pid 2891] [client 127.0.0.1:37834] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:42:38.961704 2018] [php7:warn] [pid 2891] [client 127.0.0.1:37834] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:43:57.501570 2018] [php7:notice] [pid 2889] [client 127.0.0.1:37854] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:43:57.501629 2018] [php7:notice] [pid 2889] [client 127.0.0.1:37854] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 09:43:57.501639 2018] [php7:notice] [pid 2889] [client 127.0.0.1:37854] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:43:57.501648 2018] [php7:notice] [pid 2889] [client 127.0.0.1:37854] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 09:43:57.501658 2018] [php7:notice] [pid 2889] [client 127.0.0.1:37854] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 09:43:57.501692 2018] [php7:warn] [pid 2889] [client 127.0.0.1:37854] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:43:57.501716 2018] [php7:warn] [pid 2889] [client 127.0.0.1:37854] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:43:57.501731 2018] [php7:warn] [pid 2889] [client 127.0.0.1:37854] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:45:37.279599 2018] [php7:notice] [pid 2890] [client 127.0.0.1:37868] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:45:37.279735 2018] [php7:notice] [pid 2890] [client 127.0.0.1:37868] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 09:45:37.279824 2018] [php7:notice] [pid 2890] [client 127.0.0.1:37868] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:45:37.279864 2018] [php7:notice] [pid 2890] [client 127.0.0.1:37868] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 09:45:37.279898 2018] [php7:notice] [pid 2890] [client 127.0.0.1:37868] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 09:45:37.279973 2018] [php7:warn] [pid 2890] [client 127.0.0.1:37868] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:45:37.280018 2018] [php7:warn] [pid 2890] [client 127.0.0.1:37868] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:45:37.280061 2018] [php7:warn] [pid 2890] [client 127.0.0.1:37868] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 140
+[Thu Aug 09 09:49:02.679735 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37880] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 09:49:02.679777 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37880] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 09:49:02.679788 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37880] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 09:49:02.679795 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37880] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 09:49:02.679803 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37880] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 09:49:02.679823 2018] [php7:warn] [pid 2891] [client 127.0.0.1:37880] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 09:49:02.679836 2018] [php7:warn] [pid 2891] [client 127.0.0.1:37880] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 09:49:02.679846 2018] [php7:warn] [pid 2891] [client 127.0.0.1:37880] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:05:44.487551 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37944] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 10:05:44.487602 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37944] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 10:05:44.487614 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37944] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 10:05:44.487624 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37944] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 10:05:44.487633 2018] [php7:notice] [pid 2891] [client 127.0.0.1:37944] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 10:05:44.487658 2018] [php7:warn] [pid 2891] [client 127.0.0.1:37944] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:05:44.487688 2018] [php7:warn] [pid 2891] [client 127.0.0.1:37944] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:05:44.487700 2018] [php7:warn] [pid 2891] [client 127.0.0.1:37944] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:00.645254 2018] [php7:notice] [pid 3812] [client 127.0.0.1:37960] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 10:11:00.645314 2018] [php7:notice] [pid 3812] [client 127.0.0.1:37960] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 10:11:00.645326 2018] [php7:notice] [pid 3812] [client 127.0.0.1:37960] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 10:11:00.645334 2018] [php7:notice] [pid 3812] [client 127.0.0.1:37960] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 10:11:00.645342 2018] [php7:notice] [pid 3812] [client 127.0.0.1:37960] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 10:11:00.645381 2018] [php7:warn] [pid 3812] [client 127.0.0.1:37960] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:00.645397 2018] [php7:warn] [pid 3812] [client 127.0.0.1:37960] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:00.645407 2018] [php7:warn] [pid 3812] [client 127.0.0.1:37960] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:22.381485 2018] [php7:notice] [pid 2520] [client 127.0.0.1:37972] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 10:11:22.381538 2018] [php7:notice] [pid 2520] [client 127.0.0.1:37972] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 10:11:22.381548 2018] [php7:notice] [pid 2520] [client 127.0.0.1:37972] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 10:11:22.381556 2018] [php7:notice] [pid 2520] [client 127.0.0.1:37972] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 10:11:22.381563 2018] [php7:notice] [pid 2520] [client 127.0.0.1:37972] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 10:11:22.381601 2018] [php7:warn] [pid 2520] [client 127.0.0.1:37972] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:22.381620 2018] [php7:warn] [pid 2520] [client 127.0.0.1:37972] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:22.381632 2018] [php7:warn] [pid 2520] [client 127.0.0.1:37972] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:31.834431 2018] [php7:notice] [pid 3812] [client 127.0.0.1:37982] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 10:11:31.834481 2018] [php7:notice] [pid 3812] [client 127.0.0.1:37982] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 10:11:31.834508 2018] [php7:notice] [pid 3812] [client 127.0.0.1:37982] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 10:11:31.834518 2018] [php7:notice] [pid 3812] [client 127.0.0.1:37982] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 10:11:31.834527 2018] [php7:notice] [pid 3812] [client 127.0.0.1:37982] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 10:11:31.834552 2018] [php7:warn] [pid 3812] [client 127.0.0.1:37982] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:31.834567 2018] [php7:warn] [pid 3812] [client 127.0.0.1:37982] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:31.834580 2018] [php7:warn] [pid 3812] [client 127.0.0.1:37982] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:59.034632 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37990] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 10:11:59.034683 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37990] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 10:11:59.034704 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37990] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 10:11:59.034714 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37990] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 10:11:59.034722 2018] [php7:notice] [pid 3154] [client 127.0.0.1:37990] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 10:11:59.034746 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37990] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:59.034759 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37990] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:11:59.034770 2018] [php7:warn] [pid 3154] [client 127.0.0.1:37990] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:19:00.045820 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38014] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 69
+[Thu Aug 09 10:19:00.045896 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38014] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 70
+[Thu Aug 09 10:19:00.045910 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38014] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 76
+[Thu Aug 09 10:19:00.045923 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38014] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 80
+[Thu Aug 09 10:19:00.045933 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38014] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 81
+[Thu Aug 09 10:19:00.045969 2018] [php7:warn] [pid 2520] [client 127.0.0.1:38014] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:19:00.045987 2018] [php7:warn] [pid 2520] [client 127.0.0.1:38014] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:19:00.046011 2018] [php7:warn] [pid 2520] [client 127.0.0.1:38014] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 142
+[Thu Aug 09 10:42:40.800331 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38080] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 196
+[Thu Aug 09 10:42:40.804557 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38080] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 197
+[Thu Aug 09 10:42:40.804616 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38080] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 203
+[Thu Aug 09 10:42:40.804653 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38080] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 207
+[Thu Aug 09 10:42:40.804687 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38080] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 208
+[Thu Aug 09 10:42:40.805495 2018] [php7:warn] [pid 3154] [client 127.0.0.1:38080] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 269
+[Thu Aug 09 10:42:40.805656 2018] [php7:warn] [pid 3154] [client 127.0.0.1:38080] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 269
+[Thu Aug 09 10:42:40.805707 2018] [php7:warn] [pid 3154] [client 127.0.0.1:38080] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 269
+[Thu Aug 09 10:45:12.842501 2018] [php7:notice] [pid 3812] [client 127.0.0.1:38108] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 155
+[Thu Aug 09 10:45:12.842857 2018] [php7:notice] [pid 3812] [client 127.0.0.1:38108] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 156
+[Thu Aug 09 10:45:12.842869 2018] [php7:notice] [pid 3812] [client 127.0.0.1:38108] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 162
+[Thu Aug 09 10:45:12.842877 2018] [php7:notice] [pid 3812] [client 127.0.0.1:38108] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 166
+[Thu Aug 09 10:45:12.842884 2018] [php7:notice] [pid 3812] [client 127.0.0.1:38108] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 167
+[Thu Aug 09 10:45:12.843321 2018] [php7:warn] [pid 3812] [client 127.0.0.1:38108] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 228
+[Thu Aug 09 10:45:12.843359 2018] [php7:warn] [pid 3812] [client 127.0.0.1:38108] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 228
+[Thu Aug 09 10:45:12.843370 2018] [php7:warn] [pid 3812] [client 127.0.0.1:38108] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 228
+[Thu Aug 09 10:45:57.381247 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38124] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 146
+[Thu Aug 09 10:45:57.381302 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38124] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 147
+[Thu Aug 09 10:45:57.381312 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38124] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 153
+[Thu Aug 09 10:45:57.381335 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38124] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 157
+[Thu Aug 09 10:45:57.381346 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38124] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 158
+[Thu Aug 09 10:45:57.381392 2018] [php7:warn] [pid 2520] [client 127.0.0.1:38124] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 219
+[Thu Aug 09 10:45:57.381410 2018] [php7:warn] [pid 2520] [client 127.0.0.1:38124] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 219
+[Thu Aug 09 10:45:57.381420 2018] [php7:warn] [pid 2520] [client 127.0.0.1:38124] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 219
+[Thu Aug 09 10:46:17.497680 2018] [php7:notice] [pid 3812] [client 127.0.0.1:38134] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 94
+[Thu Aug 09 10:46:17.497733 2018] [php7:notice] [pid 3812] [client 127.0.0.1:38134] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 95
+[Thu Aug 09 10:46:17.497758 2018] [php7:notice] [pid 3812] [client 127.0.0.1:38134] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 101
+[Thu Aug 09 10:46:17.497770 2018] [php7:notice] [pid 3812] [client 127.0.0.1:38134] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 105
+[Thu Aug 09 10:46:17.497780 2018] [php7:notice] [pid 3812] [client 127.0.0.1:38134] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 106
+[Thu Aug 09 10:46:17.497793 2018] [php7:warn] [pid 3812] [client 127.0.0.1:38134] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 167
+[Thu Aug 09 10:46:17.498038 2018] [php7:warn] [pid 3812] [client 127.0.0.1:38134] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 167
+[Thu Aug 09 10:46:17.498060 2018] [php7:warn] [pid 3812] [client 127.0.0.1:38134] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 167
+[Thu Aug 09 10:47:08.929180 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38146] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 138
+[Thu Aug 09 10:47:08.929356 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38146] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 139
+[Thu Aug 09 10:47:08.929368 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38146] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 145
+[Thu Aug 09 10:47:08.929377 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38146] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 149
+[Thu Aug 09 10:47:08.929384 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38146] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 150
+[Thu Aug 09 10:47:08.929404 2018] [php7:warn] [pid 2521] [client 127.0.0.1:38146] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 10:47:08.929667 2018] [php7:warn] [pid 2521] [client 127.0.0.1:38146] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 10:47:08.929693 2018] [php7:warn] [pid 2521] [client 127.0.0.1:38146] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 10:47:41.369734 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38158] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 196
+[Thu Aug 09 10:47:41.369779 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38158] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 197
+[Thu Aug 09 10:47:41.369789 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38158] PHP Notice:  Undefined index: id in /home/yann/Code/Challenge/CRM/index.php on line 203
+[Thu Aug 09 10:47:41.369803 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38158] PHP Notice:  Undefined index: name in /home/yann/Code/Challenge/CRM/index.php on line 207
+[Thu Aug 09 10:47:41.369810 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38158] PHP Notice:  Undefined index: address in /home/yann/Code/Challenge/CRM/index.php on line 208
+[Thu Aug 09 10:47:41.369828 2018] [php7:warn] [pid 3154] [client 127.0.0.1:38158] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 269
+[Thu Aug 09 10:47:41.369842 2018] [php7:warn] [pid 3154] [client 127.0.0.1:38158] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 269
+[Thu Aug 09 10:47:41.369853 2018] [php7:warn] [pid 3154] [client 127.0.0.1:38158] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/yann/Code/Challenge/CRM/index.php on line 269
+[Thu Aug 09 10:55:55.429309 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38184] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 43
+[Thu Aug 09 10:55:55.429358 2018] [php7:warn] [pid 3154] [client 127.0.0.1:38184] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 43
+[Thu Aug 09 10:55:55.429695 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38184] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 207
+[Thu Aug 09 10:55:55.429716 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38184] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 208
+[Thu Aug 09 10:55:55.429725 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38184] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 214
+[Thu Aug 09 10:55:55.429735 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38184] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 218
+[Thu Aug 09 10:55:55.429744 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38184] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 219
+[Thu Aug 09 10:55:55.429753 2018] [php7:notice] [pid 3154] [client 127.0.0.1:38184] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 278
+[Thu Aug 09 10:55:55.429762 2018] [php7:warn] [pid 3154] [client 127.0.0.1:38184] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 278
+[Thu Aug 09 10:57:23.329279 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38210] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 180
+[Thu Aug 09 10:57:23.329320 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38210] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 181
+[Thu Aug 09 10:57:23.329327 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38210] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 187
+[Thu Aug 09 10:57:23.329334 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38210] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 191
+[Thu Aug 09 10:57:23.329353 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38210] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 192
+[Thu Aug 09 10:57:23.329363 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38210] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 251
+[Thu Aug 09 10:57:23.329371 2018] [php7:warn] [pid 2519] [client 127.0.0.1:38210] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 251
+[Thu Aug 09 11:07:12.270081 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38910] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 209
+[Thu Aug 09 11:07:12.270444 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38910] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 210
+[Thu Aug 09 11:07:12.270456 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38910] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 216
+[Thu Aug 09 11:07:12.270464 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38910] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 220
+[Thu Aug 09 11:07:12.270473 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38910] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 221
+[Thu Aug 09 11:07:12.270481 2018] [php7:notice] [pid 2520] [client 127.0.0.1:38910] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 280
+[Thu Aug 09 11:07:12.270491 2018] [php7:warn] [pid 2520] [client 127.0.0.1:38910] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 280
+[Thu Aug 09 11:07:23.601308 2018] [php7:notice] [pid 2888] [client 127.0.0.1:38922] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 209
+[Thu Aug 09 11:07:23.601357 2018] [php7:notice] [pid 2888] [client 127.0.0.1:38922] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 210
+[Thu Aug 09 11:07:23.601367 2018] [php7:notice] [pid 2888] [client 127.0.0.1:38922] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 216
+[Thu Aug 09 11:07:23.601378 2018] [php7:notice] [pid 2888] [client 127.0.0.1:38922] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 220
+[Thu Aug 09 11:07:23.601387 2018] [php7:notice] [pid 2888] [client 127.0.0.1:38922] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 221
+[Thu Aug 09 11:07:23.601396 2018] [php7:notice] [pid 2888] [client 127.0.0.1:38922] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 280
+[Thu Aug 09 11:07:23.601408 2018] [php7:warn] [pid 2888] [client 127.0.0.1:38922] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 280
+[Thu Aug 09 11:08:48.613747 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38934] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 11:08:48.613797 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38934] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 212
+[Thu Aug 09 11:08:48.613808 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38934] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 218
+[Thu Aug 09 11:08:48.613817 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38934] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 222
+[Thu Aug 09 11:08:48.613825 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38934] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 223
+[Thu Aug 09 11:08:48.613833 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38934] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:08:48.613858 2018] [php7:warn] [pid 2521] [client 127.0.0.1:38934] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:10:55.273936 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38954] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 11:10:55.273991 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38954] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 212
+[Thu Aug 09 11:10:55.274002 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38954] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 218
+[Thu Aug 09 11:10:55.274010 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38954] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 222
+[Thu Aug 09 11:10:55.274017 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38954] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 223
+[Thu Aug 09 11:10:55.274026 2018] [php7:notice] [pid 2519] [client 127.0.0.1:38954] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:10:55.274033 2018] [php7:warn] [pid 2519] [client 127.0.0.1:38954] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:11:20.049833 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38966] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 11:11:20.050199 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38966] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 212
+[Thu Aug 09 11:11:20.050217 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38966] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 218
+[Thu Aug 09 11:11:20.050228 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38966] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 222
+[Thu Aug 09 11:11:20.050239 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38966] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 223
+[Thu Aug 09 11:11:20.050251 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38966] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:11:20.050259 2018] [php7:warn] [pid 2517] [client 127.0.0.1:38966] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:11:31.073883 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38974] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 11:11:31.074139 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38974] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 212
+[Thu Aug 09 11:11:31.074154 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38974] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 218
+[Thu Aug 09 11:11:31.074163 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38974] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 222
+[Thu Aug 09 11:11:31.074171 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38974] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 223
+[Thu Aug 09 11:11:31.074180 2018] [php7:notice] [pid 2521] [client 127.0.0.1:38974] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:11:31.074189 2018] [php7:warn] [pid 2521] [client 127.0.0.1:38974] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:11:52.552341 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38986] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 11:11:52.552418 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38986] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 212
+[Thu Aug 09 11:11:52.552429 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38986] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 218
+[Thu Aug 09 11:11:52.552437 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38986] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 222
+[Thu Aug 09 11:11:52.552443 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38986] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 223
+[Thu Aug 09 11:11:52.552450 2018] [php7:notice] [pid 2517] [client 127.0.0.1:38986] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:11:52.552458 2018] [php7:warn] [pid 2517] [client 127.0.0.1:38986] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:13:22.244922 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39006] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 11:13:22.244974 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39006] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 212
+[Thu Aug 09 11:13:22.245033 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39006] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 218
+[Thu Aug 09 11:13:22.245051 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39006] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 222
+[Thu Aug 09 11:13:22.245061 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39006] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 223
+[Thu Aug 09 11:13:22.245070 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39006] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:13:22.245079 2018] [php7:warn] [pid 2890] [client 127.0.0.1:39006] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:14:38.018246 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39024] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 11:14:38.018370 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39024] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 212
+[Thu Aug 09 11:14:38.018401 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39024] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 218
+[Thu Aug 09 11:14:38.018410 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39024] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 222
+[Thu Aug 09 11:14:38.018417 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39024] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 223
+[Thu Aug 09 11:14:38.018427 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39024] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:14:38.018436 2018] [php7:warn] [pid 2520] [client 127.0.0.1:39024] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:14:55.632582 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39036] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 11:14:55.632639 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39036] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 212
+[Thu Aug 09 11:14:55.632651 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39036] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 218
+[Thu Aug 09 11:14:55.632671 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39036] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 222
+[Thu Aug 09 11:14:55.632679 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39036] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 223
+[Thu Aug 09 11:14:55.632695 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39036] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:14:55.632705 2018] [php7:warn] [pid 3812] [client 127.0.0.1:39036] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:15:19.112250 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39048] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 211
+[Thu Aug 09 11:15:19.112326 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39048] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 212
+[Thu Aug 09 11:15:19.112336 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39048] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 218
+[Thu Aug 09 11:15:19.112345 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39048] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 222
+[Thu Aug 09 11:15:19.112355 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39048] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 223
+[Thu Aug 09 11:15:19.112364 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39048] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:15:19.112373 2018] [php7:warn] [pid 2890] [client 127.0.0.1:39048] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:15:58.521373 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39060] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 219
+[Thu Aug 09 11:15:58.521432 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39060] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 220
+[Thu Aug 09 11:15:58.521445 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39060] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 226
+[Thu Aug 09 11:15:58.521455 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39060] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 230
+[Thu Aug 09 11:15:58.521467 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39060] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 231
+[Thu Aug 09 11:15:58.521479 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39060] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 290
+[Thu Aug 09 11:15:58.521489 2018] [php7:warn] [pid 2521] [client 127.0.0.1:39060] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 290
+[Thu Aug 09 11:17:02.737790 2018] [php7:notice] [pid 3154] [client 127.0.0.1:39072] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 265
+[Thu Aug 09 11:17:02.737843 2018] [php7:notice] [pid 3154] [client 127.0.0.1:39072] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 266
+[Thu Aug 09 11:17:02.737853 2018] [php7:notice] [pid 3154] [client 127.0.0.1:39072] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 272
+[Thu Aug 09 11:17:02.737861 2018] [php7:notice] [pid 3154] [client 127.0.0.1:39072] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 276
+[Thu Aug 09 11:17:02.737879 2018] [php7:notice] [pid 3154] [client 127.0.0.1:39072] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 277
+[Thu Aug 09 11:17:02.737898 2018] [php7:notice] [pid 3154] [client 127.0.0.1:39072] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 336
+[Thu Aug 09 11:17:02.737906 2018] [php7:warn] [pid 3154] [client 127.0.0.1:39072] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 336
+[Thu Aug 09 11:19:35.308741 2018] [php7:emerg] [pid 2519] [client 127.0.0.1:39086] PHP Parse error:  syntax error, unexpected end of file in /home/yann/Code/Challenge/CRM/index.php on line 388
+[Thu Aug 09 11:20:08.394398 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39088] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 271
+[Thu Aug 09 11:20:08.394465 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39088] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 272
+[Thu Aug 09 11:20:08.394476 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39088] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 278
+[Thu Aug 09 11:20:08.394483 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39088] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:20:08.394491 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39088] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 283
+[Thu Aug 09 11:20:08.394502 2018] [php7:notice] [pid 2890] [client 127.0.0.1:39088] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 342
+[Thu Aug 09 11:20:08.394512 2018] [php7:warn] [pid 2890] [client 127.0.0.1:39088] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 342
+[Thu Aug 09 11:21:02.860066 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39104] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 271
+[Thu Aug 09 11:21:02.860134 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39104] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 272
+[Thu Aug 09 11:21:02.860145 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39104] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 278
+[Thu Aug 09 11:21:02.860154 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39104] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:21:02.860162 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39104] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 283
+[Thu Aug 09 11:21:02.860171 2018] [php7:notice] [pid 2520] [client 127.0.0.1:39104] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 342
+[Thu Aug 09 11:21:02.860180 2018] [php7:warn] [pid 2520] [client 127.0.0.1:39104] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 342
+[Thu Aug 09 11:21:33.152198 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39116] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 271
+[Thu Aug 09 11:21:33.152259 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39116] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 272
+[Thu Aug 09 11:21:33.152271 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39116] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 278
+[Thu Aug 09 11:21:33.152282 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39116] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:21:33.152290 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39116] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 283
+[Thu Aug 09 11:21:33.152300 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39116] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 342
+[Thu Aug 09 11:21:33.152320 2018] [php7:warn] [pid 3812] [client 127.0.0.1:39116] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 342
+[Thu Aug 09 11:22:27.839136 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39132] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 271
+[Thu Aug 09 11:22:27.839204 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39132] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 272
+[Thu Aug 09 11:22:27.839215 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39132] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 278
+[Thu Aug 09 11:22:27.839227 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39132] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 282
+[Thu Aug 09 11:22:27.839235 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39132] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 283
+[Thu Aug 09 11:22:27.839243 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39132] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 342
+[Thu Aug 09 11:22:27.839251 2018] [php7:warn] [pid 2519] [client 127.0.0.1:39132] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 342
+[Thu Aug 09 11:23:21.106799 2018] [php7:notice] [pid 2891] [client 127.0.0.1:39144] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 269
+[Thu Aug 09 11:23:21.106867 2018] [php7:notice] [pid 2891] [client 127.0.0.1:39144] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 270
+[Thu Aug 09 11:23:21.106878 2018] [php7:notice] [pid 2891] [client 127.0.0.1:39144] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 276
+[Thu Aug 09 11:23:21.106886 2018] [php7:notice] [pid 2891] [client 127.0.0.1:39144] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 280
+[Thu Aug 09 11:23:21.106894 2018] [php7:notice] [pid 2891] [client 127.0.0.1:39144] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 281
+[Thu Aug 09 11:23:21.106903 2018] [php7:notice] [pid 2891] [client 127.0.0.1:39144] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 340
+[Thu Aug 09 11:23:21.106913 2018] [php7:warn] [pid 2891] [client 127.0.0.1:39144] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 340
+[Thu Aug 09 11:24:39.404666 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39160] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 256
+[Thu Aug 09 11:24:39.404872 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39160] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 257
+[Thu Aug 09 11:24:39.404890 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39160] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 263
+[Thu Aug 09 11:24:39.404899 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39160] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 267
+[Thu Aug 09 11:24:39.404907 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39160] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 268
+[Thu Aug 09 11:24:39.404922 2018] [php7:notice] [pid 2521] [client 127.0.0.1:39160] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 327
+[Thu Aug 09 11:24:39.404931 2018] [php7:warn] [pid 2521] [client 127.0.0.1:39160] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 327
+[Thu Aug 09 11:25:26.266512 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39172] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 157
+[Thu Aug 09 11:25:26.266584 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39172] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 158
+[Thu Aug 09 11:25:26.266595 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39172] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 164
+[Thu Aug 09 11:25:26.266880 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39172] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 168
+[Thu Aug 09 11:25:26.266894 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39172] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 169
+[Thu Aug 09 11:25:26.266903 2018] [php7:notice] [pid 2519] [client 127.0.0.1:39172] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 228
+[Thu Aug 09 11:25:26.266910 2018] [php7:warn] [pid 2519] [client 127.0.0.1:39172] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 228
+[Thu Aug 09 11:26:25.843917 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39182] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 184
+[Thu Aug 09 11:26:25.843977 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39182] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 185
+[Thu Aug 09 11:26:25.843988 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39182] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 191
+[Thu Aug 09 11:26:25.843996 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39182] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 195
+[Thu Aug 09 11:26:25.844003 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39182] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 196
+[Thu Aug 09 11:26:25.844011 2018] [php7:notice] [pid 3812] [client 127.0.0.1:39182] PHP Notice:  Undefined variable: all in /home/yann/Code/Challenge/CRM/index.php on line 255
+[Thu Aug 09 11:26:25.844019 2018] [php7:warn] [pid 3812] [client 127.0.0.1:39182] PHP Warning:  Invalid argument supplied for foreach() in /home/yann/Code/Challenge/CRM/index.php on line 255

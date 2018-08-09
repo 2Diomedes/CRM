@@ -1,194 +1,119 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no">
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <title>CRM</title>
-  </head>
-  <body>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no">
+        <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <title>CRM</title>
+    </head>
+    <body>
 
-<?php
+        <?php
 
-$user = "admin";
-$pass = "plop";
+        $user = "admin";
+        $pass = "plop";
 
-$db = new PDO('mysql:host=localhost;dbname=crm-bdd', $user, $pass);
+        $db = new PDO('mysql:host=localhost;dbname=crm-bdd', $user, $pass);
 
-$all=$db->query("SELECT * FROM Customers")->fetch();
-print_r($all)
+        $customer=$db->query("SELECT * FROM Customers")->fetchAll();
 
-?>
+        ?>
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-12">
-          <div class="row">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-              <a class="navbar-brand" href="#">My mini CRM</a>
-              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-              </button>
-              <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                  <li class="nav-item active">
-                    <a class="nav-link" href="#">Listings</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="#">Ajouter Client</a>
-                  </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="#">Ajouter Entreprise</a>
-                  </li>
-                </ul>
-              </div>
-            </nav>
-          </div>
-          <div class="row main">
-            <h1>Listing clients/entreprises</h1>
-          </div>
-          <div class="row main">
-              <a class="btn btn-primary" data-toggle="collapse" href="#clients" role="button" aria-expanded="false" aria-controls="clients">
-                Clients
-              </a>
-              <a class="btn btn-primary" data-toggle="collapse" href="#entreprises" role="button" aria-expanded="false" aria-controls="entreprises">
-                Entreprises
-              </a>
-              <div class="collapse" id="clients">
-                <div class="card card-body">
-                  <div id="accordion">
-                    <div class="card">
-                      <div class="card-header" id="headingOne">
-                        <h5 class="mb-0">
-                          <button class="btn btn-link" data-toggle="collapse" data-target="#collapse<?php echo $all['id']?>" aria-expanded="true" aria-controls="collapseOne">
-                            <?php echo $all['name']?>
-                          </button>
-                        </h5>
-                      </div>
-                      <div class="tab-content" id="pills-tabContent">
-                        <div class="tab-pane fade show active" id="pills-clients" role="tabpanel" aria-labelledby="pills-home-tab">
-                          <div id="collapse<?php echo $all['id']?>" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                              <div class="media">
-                                  <img class="mr-3" src="https://picsum.photos/200/300/?random" alt="Generic placeholder image">
-                                  <div class="media-body">
-                                      <h5 class="mt-0"><?php echo $all['name']?></h5>
-                                      <p><?php echo $all['address']?></p>
-                                      <a href="#">Entreprise</a>
-                                  </div>
-                              </div>
-                          </div>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <div class="row">
+                        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                            <a class="navbar-brand" href="#">My mini (putain de) CRM</a>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarNav">
+                                <ul class="navbar-nav">
+                                    <li class="nav-item active">
+                                        <a class="nav-link" href="#">Listings</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#">Ajouter Client</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#">Ajouter Entreprise</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+
+                    <div class="row main">
+                        <h1>Listing clients/entreprises</h1>
+                
+                        <div class="col-12">
+                            <div class="list-group row" id="list-tab" role="tablist">
+
+                                <a class="list-group-item list-group-item-action active col-6" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home">Client</a>
+
+                                <a class="list-group-item list-group-item-action col-6" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile">Entreprise</a>
+
+                            </div>
                         </div>
-                        <div class="card">
-                          <div class="card-header" id="headingTwo">
-                            <h5 class="mb-0">
-                              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Client #2
-                              </button>
-                            </h5>
-                          </div>
-                          <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                              <div class="media">
-                                  <img class="mr-3" src="https://picsum.photos/200/300/?random" alt="Generic placeholder image">
-                                  <div class="media-body">
-                                      <h5 class="mt-0">Nom Client</h5>
-                                      Adress 48000 MENDE
-                                      <a href="#">Entreprise</a>
-                                  </div>
-                              </div>
-                          </div>
-                        </div>
-                        <div class="card">
-                          <div class="card-header" id="headinThree">
-                            <h5 class="mb-0">
-                              <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Client #3
-                              </button>
-                            </h5>
-                          </div>
-                          <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                              <div class="media">
-                                  <img class="mr-3" src="https://picsum.photos/200/300/?random" alt="Generic placeholder image">
-                                  <div class="media-body">
-                                      <h5 class="mt-0">Nom Client</h5>
-                                      Adress 48000 MENDE
-                                      <a href="#">Entreprise</a>
-                                  </div>
-                              </div>
-                          </div>
-                        </div>
-                      </div>
-                          </div>
 
-                        <div class="tab-pane fade" id="pills-entreprises" role="tabpanel" aria-labelledby="pills-profile-tab">
-                        </div>
-                      </div>
+                        <div class="col-12">
+                            <div class="tab-content" id="nav-tabContent">
+                                <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
 
+<!-- le Collapse en BDD-->
+
+                                    <div id="accordion">
+
+                                    <?php foreach ($customer as $value):?>
+
+                                        <div class="card">
+                                            <div class="card-header" id="heading<?php echo $value['id'] ?>">
+                                                <h5 class="mb-0">
+                                                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapse<?php echo $value['id'] ?>" aria-expanded="true" aria-controls="collapseOne">
+                                                        <?php echo $value['name'] ?>
+                                                    </button>
+                                                </h5>
+                                            </div>
+
+                                            <div id="collapse<?php echo $value['id'] ?>" class="collapse" aria-labelledby="heading<?php echo $value['id'] ?>" data-parent="#accordion">
+                                                <div class="card-body">
+                                                    <div class="media">
+                                                        <img class="mr-3" src="https://picsum.photos/150/120/?random" alt="Generic placeholder image">
+                                                        <div class="media-body">
+                                                            <h5 class="mt-0"><?php echo $value['name'] ?></h5>
+                                                            <p><?php echo $value['address'] ?></p>
+                                                            <a href="#">Entreprise</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    <?php endforeach;?>
+
+<!-- fin Collapse -->
+
+                                    </div>
+                                </div>
+
+                                <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
+
+<!-- futur Collapse BDD entreprise-->
+                                    lolilol
+<!-- fin Collapse -->
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-
-          <div class="collapse" id="entreprises">
-            <div class="card card-body">
-              <div id="accordion">
-                <div class="card">
-                  <div class="card-header" id="hOne">
-                    <h5 class="mb-0">
-                      <button class="btn btn-link" data-toggle="collapse" data-target="#eOne" aria-expanded="false" aria-controls="eOne">
-                        Entreprise #1
-                      </button>
-                    </h5>
-                  </div>
-                  <div class="tab-content" id="pills-tabContent">
-                    <div class="tab-pane fade show active" id="pills-clients" role="tabpanel" aria-labelledby="pills-home-tab">
-                      <div id="eOne" class="collapse show" aria-labelledby="hOne" data-parent="#accordion">
-                        <div class="card-body">
-                          Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                        </div>
-                      </div>
-                    </div>
-                    <div class="card">
-                      <div class="card-header" id="hTwo">
-                        <h5 class="mb-0">
-                          <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#eTwo" aria-expanded="false" aria-controls="eTwo">
-                            Collapsible Group Item #2
-                          </button>
-                        </h5>
-                      </div>
-                      <div id="eTwo" class="collapse" aria-labelledby="hTwo" data-parent="#accordion">
-                        <div class="card-body">
-                          Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                        </div>
-                      </div>
-                    </div>
-                    <div class="card">
-                      <div class="card-header" id="hThree">
-                        <h5 class="mb-0">
-                          <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#eThree" aria-expanded="false" aria-controls="eThree">
-                            Collapsible Group Item #3
-                          </button>
-                        </h5>
-                      </div>
-                      <div id="eThree" class="collapse" aria-labelledby="hThree" data-parent="#accordion">
-                        <div class="card-body">
-                          Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                      </div>
-
-                    <div class="tab-pane fade" id="pills-entreprises" role="tabpanel" aria-labelledby="pills-profile-tab">
-                    </div>
-                  </div>
-
         </div>
-        </div>
-
-        </div>
-    </div>
 
     <script src="node_modules/jquery/dist/jquery.min.js" charset="utf-8"></script>
     <script src="node_modules/bootstrap/dist/js/bootstrap.min.js" charset="utf-8"></script>
     <script src="js/script.js" charset="utf-8"></script>
-  </body>
+    </body>
 </html>

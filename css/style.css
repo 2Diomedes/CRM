@@ -12,11 +12,16 @@ nav {
 
 /*-------------------- Nav --------------------*/
 /*-------------------- Body --------------------*/
+.list-group {
+  flex-direction: row; }
+
 .main {
-  max-width: 1000px;
+  max-width: 1210px;
   width: 100%;
   margin: auto;
   justify-content: center; }
+  .main h1 {
+    padding: 5rem; }
   .main button, .main a {
     margin: auto;
     width: 50%; }
