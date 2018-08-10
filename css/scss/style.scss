@@ -1,15 +1,13 @@
 /*-------------------- Mother --------------------*/
-
-html, body {
+body,
+html {
   width: 100%;
 }
-
 /*-------------------- Mother --------------------*/
-
 /*-------------------- Nav --------------------*/
-
 nav {
   width: 100%;
+
   #navbarNav {
     ul {
       justify-content: center;
@@ -17,51 +15,53 @@ nav {
     }
   }
 }
-
 /*-------------------- Nav --------------------*/
-
 /*-------------------- Body --------------------*/
-.list-group{
-flex-direction: row;
+.list-group {
+  flex-direction: row;
 }
 
 .main {
-    h1{
+  h1 {
+    text-align: center;
+    padding: 5rem;
+    display: block;
+    width: 100%;
+  }
+
+  form {
+    width: 80%;
+
+    input {
+      margin: 0.5rem 0;
+      display: block;
+      width: 100%;
+      padding: 0.3rem;
+    }
+
+    button {
       text-align: center;
-        padding: 5rem;
-        display: block;
-        width: 100%;
+      padding: 0.5rem;
+      width: 12%;
+      border-radius: 5px;
+      background: #5b5cff;
+      color: #fff;
+      border: none;
     }
-    form {
-      width: 80%;
-      input {
-        margin: 0.5rem 0;
-        display: block;
-        width: 100%;
-        padding: 0.3rem;
-      }
-      button {
-        text-align: center;
-        padding: 0.5rem;
-        width: 12%;
-        border-radius: 5px;
-        background: #5b5cff;
-        color: #fff;
-        border: none;
-      }
-    }
+  }
   max-width: 1210px;
   width: 100%;
   margin: auto;
   justify-content: center;
-    button, a {
-      margin: auto;
-      width: 50%;
-    }
-}
-#clients{
-    width: 100%;
+
+  a,
+  button {
+    margin: auto;
+    width: 50%;
+  }
 }
 
-
+#clients {
+  width: 100%;
+}
 /*-------------------- Body --------------------*/

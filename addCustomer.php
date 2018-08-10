@@ -16,6 +16,7 @@
         $pass = "plop";
 
         $db = new PDO('mysql:host=localhost;dbname=crm-bdd', $user, $pass);
+        $business=$db->query("SELECT * FROM Business")->fetchAll();
 
         if ($_POST) {
             $newName = $_POST['name'];
@@ -60,7 +61,12 @@
                       <form action="addCustomer.php" method="post">
                         <input type="text" name="name" value="" placeholder="Dénomination">
                         <input type="text" name="address" value="" placeholder="Adresse Complète">
-
+                        <select class="" name="businessChoice">
+                          <option value="placeholder"> --- </option>
+                            <?php foreach ($business as $value):?>
+                            <option value="<?php echo $value['id']; ?>"><?php echo $value['name']; ?></option>
+                            <?php endforeach;?>
+                        </select>
 
                         <button type="submit" name="submit">Enregistrer</button>
 
